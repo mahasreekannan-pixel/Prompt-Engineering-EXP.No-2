@@ -258,8 +258,8 @@ Originally built for Bitcoin, blockchain now powers healthcare, supply chains, a
 RESULT:
 
 Thus the following combination of provides the best summary :
-   ZERO SHOT - GEMINI
-   FEW SHOT - GEMINI
-   CHAIN OF THOUGHT - GEMINI
-   ROLE BASED - GEMINI
+  1. ZERO SHOT - GEMINI
+  2. FEW SHOT - GEMINI
+  3. CHAIN OF THOUGHT - GEMINI
+  4. ROLE BASED - GEMINI
 
